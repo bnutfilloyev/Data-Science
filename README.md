@@ -1,28 +1,8 @@
-# Data-Science
 
-* [Bekhruz Nutfilloye](t.me/yoshlik_media) 🚀 
-* [Find more here](t.me/decoder_uz) 🚀
 
-## Python
+<strong > Data Science Roadmap (Python)</strong>
+==========
 
-## Data Science Metodology
+> [Bekhruz Nutfilloye](https://t.me/yoshlik_media) 🚀  
+> [Find more here](https://t.me/decoder_uz) 🚀
 
-## No code platform (Google Teacheble machine)
-
-## Numpy
-
-## Pandas
-
-## SQL
-
-## Data Mining
-
-## Visualization
-
-## Machine Learning
-
-## Deep Learning 
-
-## NLP
-
-## SQL (PostgreSQL)
