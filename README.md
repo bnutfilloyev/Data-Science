@@ -19,4 +19,5 @@
   - [Basic & Graph](https://classroom.udacity.com/nanodegrees/nd004-1mac-v2/), _Udacity_ 
   - [Python full cource](https://python.sariq.dev/), _Sariq dev_
   - [Numpy](https://ai.mohirdev.uz/courses/ds/lesson/numpy-bilan-tanishamiz/), _Numpy_
+  - [Numpy Practise](Python/numpy), _ipynb files_
   - [Pandas](https://ai.mohirdev.uz/courses/ds/lesson/series-malumotlar-tuzilmasi/), _Pandas_
