@@ -19,5 +19,16 @@
   - [Basic & Graph](https://classroom.udacity.com/nanodegrees/nd004-1mac-v2/), _Udacity_ 
   - [Python full cource](https://python.sariq.dev/), _Sariq dev_
   - [Numpy](https://ai.mohirdev.uz/courses/ds/lesson/numpy-bilan-tanishamiz/), _Numpy_
-  - [Numpy Practise](Python/numpy), _ipynb files_
+    - [Numpy intro](Python/numpy/#0_numpy_intro.ipynb), _ipynb files_
+    - [Creating arrays](Python/numpy/#01_Creating_arrays.ipynb), _ipynb files_
+    - [Data Type](Python/numpy/#2_data_type.ipynb), _ipynb files_
+    - [Documentation](Python/numpy/Numpy_Documentation.ipynb), _ipynb files_
   - [Pandas](https://ai.mohirdev.uz/courses/ds/lesson/series-malumotlar-tuzilmasi/), _Pandas_
+    - [Series](Python/pandas/Series.ipynb), _ipynb files_
+    - [DataFrame](Python/pandas/DataFrame.ipynb), _ipynb files_
+  
+- **Machine Learning**
+  - [Reinforcement Learning (RL)]()
+  - [Supervised Learning]()
+  - [Unsupervised Learning]()
+  
