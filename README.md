@@ -15,6 +15,7 @@
   - [Caclulus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr), *3Blue1Brown*
   - [Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), *3Blue1Brown*
   - [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) _Khan academy_
+
 - **Python**
   - [Basic & Graph](https://classroom.udacity.com/nanodegrees/nd004-1mac-v2/), _Udacity_ 
   - [Python full cource](https://python.sariq.dev/), _Sariq dev_
@@ -26,6 +27,10 @@
   - [Pandas](https://ai.mohirdev.uz/courses/ds/lesson/series-malumotlar-tuzilmasi/), _Pandas_
     - [Series](Python/pandas/Series.ipynb), _ipynb files_
     - [DataFrame](Python/pandas/DataFrame.ipynb), _ipynb files_
+  
+- **Algorithm**
+  - [Algorithm](https://mohirdev.uz/courses/algoritmlar/), _MohirDev_
+  - [Leetcode](https://github.com/YoshlikMedia/LeetCode), _Leetcode Solutions_
   
 - **Machine Learning**
   - [Reinforcement Learning (RL)]()
