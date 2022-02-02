@@ -30,6 +30,15 @@
   
 - **Algorithm**
   - [Algorithm](https://mohirdev.uz/courses/algoritmlar/), _MohirDev_
+    <details>
+      <summary>GitHub</summary>
+      <ul>
+        <li><a href="Algorithm/01-algorithm">01-algorithm</a>
+        <li><a href="Algorithm/02-algorithm">02-algorithm</a>
+        <li><a href="Algorithm/03-algorithm">03-algorithm</a>
+      </ul>
+    </details>
+    
   - [Leetcode](https://github.com/YoshlikMedia/LeetCode), _Leetcode Solutions_
   
 - **Machine Learning**
