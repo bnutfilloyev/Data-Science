@@ -27,15 +27,16 @@
   - [Pandas](https://ai.mohirdev.uz/courses/ds/lesson/series-malumotlar-tuzilmasi/), _Pandas_
     - [Series](Python/pandas/Series.ipynb), _ipynb files_
     - [DataFrame](Python/pandas/DataFrame.ipynb), _ipynb files_
+    - [Indexing](Python/pandas/DataFrameIndex.ipynb), _ipynb files_
   
 - **Algorithm**
   - [Algorithm](https://mohirdev.uz/courses/algoritmlar/), _MohirDev_
     <details>
-      <summary>GitHub</summary>
+      <summary>GitHub (Algorithm and Data Structure)</summary>
       <ul>
-        <li><a href="Algorithm/01-algorithm">01-algorithm</a>
-        <li><a href="Algorithm/02-algorithm">02-algorithm</a>
-        <li><a href="Algorithm/03-algorithm">03-algorithm</a>
+        <li><a href="Algorithm/01-algorithm">Factorial</a>
+        <li><a href="Algorithm/02-algorithm">Linear & binary search</a>
+        <li><a href="Algorithm/03-algorithm">Linked List</a>
       </ul>
     </details>
     
