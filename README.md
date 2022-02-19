@@ -25,9 +25,8 @@
     - [Data Type](Python/numpy/#2_data_type.ipynb), _ipynb files_
     - [Documentation](Python/numpy/Numpy_Documentation.ipynb), _ipynb files_
   - [Pandas](https://ai.mohirdev.uz/courses/ds/lesson/series-malumotlar-tuzilmasi/), _Pandas_
-    - [Series](Python/pandas/Series.ipynb), _ipynb files_
-    - [DataFrame](Python/pandas/DataFrame.ipynb), _ipynb files_
-    - [Indexing](Python/pandas/DataFrameIndex.ipynb), _ipynb files_
+    - [Series](Python/pandas/DataFrame), _Series practise_
+    - [DataFrame](Python/pandas/Series), _DataFrame Practise_
   
 - **Algorithm**
   - [Algorithm](https://mohirdev.uz/courses/algoritmlar/), _MohirDev_
@@ -47,3 +46,6 @@
   - [Supervised Learning]()
   - [Unsupervised Learning]()
   
+- **BackEnd**
+  - [FastAPI](https://fastapi.tiangolo.com/), _Documentation_
+  - [FastAPI Course](https://youtu.be/7t2alSnE2-I) _FastAPI - A python framework | Full Course_
