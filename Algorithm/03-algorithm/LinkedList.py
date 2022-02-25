@@ -8,7 +8,6 @@ class Node:
 
 class LinkedList:
     """ LinkedList object """
-
     def __init__(self):
         self.head = None
 
