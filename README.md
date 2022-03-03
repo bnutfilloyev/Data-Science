@@ -17,7 +17,9 @@
   - [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) _Khan academy_
 
 - **Python**
-  - [Basic & Graph](https://classroom.udacity.com/nanodegrees/nd004-1mac-v2/), _Udacity_ 
+  - [Basic & Graph](https://classroom.udacity.com/nanodegrees/nd004-1mac-v2/), _Udacity and other_ 
+    - [Hello World](Python/basic), *the First code*
+    - [Print Function](Python/print), *Print Function Practice*
   - [Python full cource](https://python.sariq.dev/), _Sariq dev_
   - [Numpy](https://ai.mohirdev.uz/courses/ds/lesson/numpy-bilan-tanishamiz/), _Numpy_
     - [Numpy intro](Python/numpy/#0_numpy_intro.ipynb), _ipynb files_
