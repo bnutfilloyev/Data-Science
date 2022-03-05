@@ -1,9 +1,4 @@
-text = """
- =
-/ \
-) (
-[_]
-
-"""
-
-print(text)
+print(' = ')
+print('/ \ ')
+print(') (')
+print('[_]')
