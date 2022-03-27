@@ -83,3 +83,41 @@ TriggeredBy: ● docker.socket
              └─ 24321 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
 ```
 
+
+### 2-qadam - Docker buyrug'ini `sudo`siz bajarish (ixtiyoriy)
+
+Siz yuqoridagi buyruqlarni ishga tushirganingizda, docker o'rnatiladi `sudo docker ...` sifatida ishlata olasiz,
+lekin `sudo` yozish har doim ham yoqimli bo'lmasligi mumkin. Siz `sudo`siz ishga tushirmoqchi bo'lsangiz,
+quyidagi xatoga duch kelasiz.
+
+```shell
+docker: Cannot connect to the Docker daemon. Is the docker daemon running on this host?.
+See 'docker run --help'.
+```
+
+Bu xatoni tuzatishingiz uchun quyidagi qadamlarni bajarishni unutmang!
+(`docker`ni `sudo` guruhiga qo'shamiz)
+
+```shell
+sudo usermod -aG docker ${USER}
+```
+
+Yangi guruh aʼzoligini qoʻllash uchun serverdan chiqing va qayta kiring yoki quyidagilarni yozing:
+
+```shell
+su - ${USER}
+```
+
+Davom etish uchun sizdan foydalanuvchi parolini kiritish talab qilinadi.
+
+Sizning foydalanuvchi docker guruhiga qo'shilganligini tasdiqlang:
+
+```shell
+groups
+```
+
+Agar siz `docker` guruhiga tizimga kirmagan foydalanuvchini qo'shishingiz kerak bo'lsa, ushbu foydalanuvchi nomini aniq qilib e'lon qiling:
+
+```shell
+sudo usermod -aG docker 'username'
+```
